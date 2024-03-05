@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  border: 0;
+}
+
+
+body {
+  border: 1px solid black;
+  margin: 25, 25, 50, 50;
+  text-align: center;
+  background-image: linear-gradient(to bottom right, rgb(97, 97, 97), rgb(2, 185, 48), rgb(0, 0, 0));
+}
+
+h2 {
+  font-family: kumar one outline;
+  color: rgb(60, 2, 114);
+}
+.icons {
+  transition: transform .2s;
+  width: 200px;
+  height: 200px;
+  width: 50%;
+  margin: 0 auto;
+
+}
+
+.icons:hover {
+  opacity: 50%;
+  -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.5); 
+  }
+
+.gif {
+ width: 50%;
+}
+
+.bands {
+margin: 5% auto;
+}
+
+.bands:hover {
+opacity: 50%;
+}
+

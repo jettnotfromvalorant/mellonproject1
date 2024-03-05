@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  border: 0;
+}
+
+
+body {
+    border: 1px solid black;
+    margin: 25, 25, 50, 50;
+    text-align: center;
+  background-image: linear-gradient(to top left, rgb(126, 3, 110), rgb(139, 10, 100), rgb(183, 0, 255));
+}
+
+h1 {
+  font-family: kumar one outline;
+  color: rgb(60, 2, 114);
+}
+.icons {
+
+width: 50%;
+
+}
+
+
+
+.icons:hover {
+  opacity: 50%;
+  }
