@@ -8,7 +8,7 @@ body {
 
   margin: 25, 25, 50, 50;
   text-align: center;
-  background-image:url("/img/backgroundhome.png");
+  background-image: url("/img/backgroundhome.png");
   background-position: center, center;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -46,7 +46,7 @@ h3 {
  
   margin-left: 10%;
   margin-right: 10%;
-  
+  -webkit-text-stroke: 1px #52b0db;
   font-family: poppins;
   color: #ffffff;
   font-size: 150%;
