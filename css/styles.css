@@ -8,7 +8,7 @@ body {
 
   margin: 25, 25, 50, 50;
   text-align: center;
-  background-image: url("/imgs/backgroundhome.png");
+  background-image: url("../imgs/backgroundhome.png");
   background-position: center, center;
   background-repeat: no-repeat;
   background-attachment: fixed;
